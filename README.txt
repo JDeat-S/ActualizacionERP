@@ -2,6 +2,7 @@ Ver 1.5.0
 Cambios 07/09/2021
 Nueva ventana Buscar Actualizaciones
 Esta ventana permite buscar actualizaciones del programa
+Ahora muestra las celdas conforme el Status en la tabla general
 
 Ver 1.4.3
 Cambios 02/09/2021
