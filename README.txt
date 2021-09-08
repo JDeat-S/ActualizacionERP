@@ -1,3 +1,8 @@
+Ver 1.5.1
+Cambios 08/09/2021
+Ahora muestra TODOS los colores dependiendo el status en ventana RH
+Ventana Nomina deshabilitada por cambios
+
 Ver 1.5.0
 Cambios 07/09/2021
 Nueva ventana Buscar Actualizaciones
