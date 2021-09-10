@@ -1,3 +1,22 @@
+Ver 1.5.2
+Ventana RH > tabla imss
+ahora se puede filtrar por:
+# Exp
+Apellido P
+Apellido M
+Nombre(s)
+Fecha de incorporacion
+Zona
+NSS
+RFC
+CURP
+Puesto
+Status
+Fecha de baja
+estos filtros funcionan correctamente
+Cambios BD
+Se agrego Zona oficina y servicios
+
 Ver 1.5.1
 Cambios 08/09/2021
 Ahora muestra TODOS los colores dependiendo el status en ventana RH
