@@ -1,3 +1,30 @@
+Ver 1.5.4 
+Cambios 10-11/09/2021
+Ventana Nomina > Ordenes de taller
+Se quito el campo datos de vehiculo y se remplazo por MARCA, MODELO, PLACAS, Y COLOR
+Se cambio pagado por cliente por status
+Se cambio pago a confort por importe a descontar
+Se quito campo cobrado (no tenia funcion)
+Temporalmente no se pueden hacer archivos de excel por los cambios a la base de datos
+
+Ventana RH > 
+Se agrego el recuadro de observaciones para poder leerlas en la aprte superior de la tabla al final de la misma
+Ahora los vigentes temporales se mustran en azul
+
+Cambios BD > Ordenes de taller
+se quito cobrado y detalles de vehiculo en la BD
+Se agrego MARCA, MODELO, PLACAS Y COLOR
+
+Cambios BD > Prestamos
+Se reinicio la numeracion 
+
+Cambios BD > Zona
+Se reinicio la numeracion
+
+Cambios BD > Servicios
+Se agregaron comodines y supervisores
+Se reinicio la numeracion
+
 Ver 1.5.2
 Ventana RH > tabla imss
 ahora se puede filtrar por:
