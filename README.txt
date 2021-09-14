@@ -1,3 +1,51 @@
+Ver 1.5.6
+Cambios 13-14/09/2021
+Ventana ZyS > Tabla detallada se servicios
+Se agregaron 2 tablas nuevas
+-Tipo de servicio
+En esta se pueden observar los siguientes campos y cuantos hay:
+ESTACIONAMIENTOS CDMX > Azul
+ESTACIONAMIENTOS FORANEOS > Azul
+EVENTOS > Verde (mas claro)
+SANTANDER CDMX > Morado fuerte
+SANTANDER FORANEOS > Morado fuerte
+SERVICIOS VP > Morado claro
+VARIADOS > Amarillo
+
+-Status de servicio
+En esta se pueden observar los siguientes campos y cuantos hay:
+Abierto > Verde
+Cerrado por Contingencia > Naranja
+VARIADOS > Amarillo
+*Los variados son aquellos que no van ligado a un servicio de VP, Estacionamiento, Santander etc.
+
+-Ahora en la tabla de los servicios Detallados muestran colores por zonas
+Norte > Morado fuerte
+Foraneos Toluca > Rojo
+Poniente > Azul
+Sur 1 > Verde
+Sur 2 > Verde (mas claro)
+Oficina > Amarillo
+Puebla > Cafe
+Acapulco > Morado claro
+
+-Se quitaros los tipo de servicio que se tenian y se cambiaron por:
+ESTACIONAMIENTOS CDMX
+ESTACIONAMIENTOS FORANEOS
+EVENTOS
+SANTANDER CDMX
+SANTANDER FORANEOS
+SERVICIOS VP	
+VARIADOS
+*Los variados son aquellos que no van ligado a un servicio de VP, Estacionamiento, Santander etc.
+
+-Se agrego un contador de servicios
+-Se agrego Status
+
+- Cambios BD
+Se llenaron TODOS los datos de las Zonas y servicios
+Se agrego Status en ZyS
+
 Ver 1.5.4 
 Cambios 10-11/09/2021
 Ventana Nomina > Ordenes de taller
