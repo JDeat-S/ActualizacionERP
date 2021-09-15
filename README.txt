@@ -1,3 +1,9 @@
+Ver 1.5.6 PHP 1.0.1
+Cambios 15/09/2021
+Ventana ZyS 
+Ahora al agregar/modificar un servicio no es necesario volver a abrir la ventana para actualizar el contador de servicios
+
+
 Ver 1.5.6
 Cambios 13-14/09/2021
 Ventana ZyS > Tabla detallada se servicios
@@ -125,7 +131,7 @@ Se corrigio texto "Tipo de valet" por "Tipo de servicio"
 Se quito un el campo de texto y se puso un campo de seleccion
 
 Nuevo modulo almacen
-Se esta rediseñando la ventana (aun no es accesible 
+Se esta rediseñando la ventana (aun no es accesible )
 
 Ver 1.4.0 JAVA VER 1.0.0 PHP
 Cambios 28/08/2021
